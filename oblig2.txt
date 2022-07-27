@@ -1,0 +1,70 @@
+Oppgave 1
+
+Nodes: 108733
+Edges: 4760823
+
+Oppgave 2
+
+Donald Glover 
+===[ The Lazarus Effect 5.2 ] ===> Olivia Wilde 
+===[ The Words 7.0 ] ===> Jeremy Irons 
+
+Scarlett Johansson 
+===[ If Lucy Fell 4.9 ] ===> Robert John Burke 
+===[ 2 Guns 6.7 ] ===> Denzel Washington 
+
+Carrie Coon 
+===[ Avengers: Infinity War 8.4 ] ===> Cobie Smulders 
+===[ Avengers: Age of Ultron 7.3 ] ===> Julie Delpy 
+
+Christian Bale 
+===[ All the Little Animals 6.9 ] ===> James Faulkner 
+===[ The Good Shepherd 6.7 ] ===> Angelina Jolie 
+
+Atle Antonsen 
+===[ In Order of Disappearance 7.2 ] ===> Goran Navojec 
+===[ Mission: Impossible – Ghost Protocol 7.4 ] ===> Ving Rhames 
+===[ Bringing Out the Dead 6.8 ] ===> Michael K. Williams 
+
+Oppgave 3
+
+Donald Glover 
+===[ The Martian 8.0 ] ===> Enzo Cilenti 
+===[ The Man Who Knew Infinity 7.2 ] ===> Jeremy Irons 
+Total weight: 4.8
+
+Scarlett Johansson 
+===[ Avengers: Endgame 8.4 ] ===> Angela Bassett 
+===[ Malcolm X 7.7 ] ===> Denzel Washington 
+Total weight: 3.9
+
+Carrie Coon 
+===[ Avengers: Infinity War 8.4 ] ===> Samuel L. Jackson 
+===[ Avengers: Age of Ultron 7.3 ] ===> Julie Delpy 
+Total weight: 4.3
+
+Christian Bale 
+===[ The Dark Knight Rises 8.4 ] ===> Liam Neeson 
+===[ For the Love of Spock 7.6 ] ===> Angelina Jolie 
+Total weight: 4.0
+
+Atle Antonsen 
+===[ In Order of Disappearance 7.2 ] ===> Stellan Skarsgård 
+===[ Good Will Hunting 8.3 ] ===> Casey Affleck 
+===[ Gone Baby Gone 7.6 ] ===> Michael K. Williams 
+Total weight: 6.9
+
+Oppgave 4
+
+There are 1 components of size 103099
+There are 1 components of size 19
+There are 1 components of size 10
+There are 3 components of size 9
+There are 1 components of size 8
+There are 5 components of size 7
+There are 8 components of size 6
+There are 14 components of size 5
+There are 40 components of size 4
+There are 113 components of size 3
+There are 297 components of size 2
+There are 4324 components of size 1
