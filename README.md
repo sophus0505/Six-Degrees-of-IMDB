@@ -4,6 +4,9 @@ author: Sophus Bredesen Gullbekk & Mathias Svoren
 geometry: margin=3cm
 ---
 
+# Regn ut hvor mange filmer som skiller skuespillere på IMDB fra hverandre og den korteste 'stien' av filmer mellom dem.
+## I tillegg kan man få en quote fra de forskjellige filmene! 
+
 
 ## Kjøring av programmet:
 
